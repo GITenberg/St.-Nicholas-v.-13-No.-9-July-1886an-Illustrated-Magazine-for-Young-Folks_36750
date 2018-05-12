@@ -1,0 +1,35 @@
+_repo: St.-Nicholas-v.-13-No.-9-July-1886an-Illustrated-Magazine-for-Young-Folks_36750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Dodge, Mary Mapes
+    alias: Dodge, M. E. (Mary Elizabeth)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '402'
+    url: http://www.gutenberg.org/2009/agents/402
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+description: ''
+gutenberg_bookshelf: St. Nicholas Magazine for Boys and Girls
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s periodicals, American'
+- !lcsh 'Children''s literature -- Periodicals'
+- !lcc 'PZ'
+title: "St. Nicholas v. 13 No. 9 July 1886\r\nAn Illustrated Magazine for Young Folks"
+url: http://www.gutenberg.org/ebooks/36750

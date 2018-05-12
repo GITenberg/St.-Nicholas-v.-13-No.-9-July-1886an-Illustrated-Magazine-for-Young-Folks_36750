@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/402
     wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36750#St.-Nicholas-v.-13-No.-9-July-1886an-Illustrated-Magazine-for-Young-Folks
 gutenberg_bookshelf: St. Nicholas Magazine for Boys and Girls
 gutenberg_issued: '2011-07-16'
 gutenberg_type: Text
